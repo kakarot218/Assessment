@@ -1,0 +1,466 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Abhi",
+      "from": "Bhavnagar",
+      "age": 21
+      
+    },
+    {
+      "id": 2,
+      "name": "Mohit",
+      "from": "Rajkot",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "Chirag",
+      "from": "Xyz",
+      "age": 22
+    },
+    {
+      "id": 4,
+      "name": "Thanos",
+      "from": "yyy",
+      "age": 65
+    },
+    {
+      "id": 5,
+      "name": "surya",
+      "from": "cxh",
+      "age": 75
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "post_id":11631,
+      "query": "photo",
+      "title": "A photograph is a secret about a secret. The more it tells you the less you know.",
+      "img": "images/1.jpg",
+      "author": "Abhi",
+      "views": 456,
+      "date": 2014,
+      "likes": [
+        155,
+        8
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "comment": "Awesome....",
+          "authId": 1,
+          "author": "Abhi"
+        },
+        {
+          "id": 2,
+          "comment": "well said",
+          "authId": 2,
+          "author": "Mohit"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "post_id":21732,
+      "query": "pic",
+      "title": "A photograph is a secret about a secret. The more it tells you the less you know.",
+      "img": "images/2.jpg",
+      "author": "Abhi",
+      "views": 456,
+      "date": 2015,
+      "likes": [
+        58,
+        10
+      ],
+      "comments": [
+        {
+          "id": 3,
+          "comment": "yep",
+          "authId": 3,
+          "author": "Chirag"
+        },
+        {
+          "id": 4,
+          "comment": "well said",
+          "authId": 2,
+          "author": "Mohit"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "post_id":122742,
+      "query": "pic",
+      "title": "A photograph is a secret about a secret. The more it tells you the less you know.",
+      "img": "images/12.jpg",
+      "author": "Abhi",
+      "views": 456,
+      "date": 2015,
+      "likes": [
+        150,
+        10
+      ],
+      "comments": [
+        {
+          "id": 3,
+          "comment": "yep",
+          "authId": 3,
+          "author": "Chirag"
+        },
+        {
+          "id": 4,
+          "comment": "well said",
+          "authId": 2,
+          "author": "Mohit"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "post_id":31833,
+      "query": "party",
+      "title": "It's Party Time....",
+      "img": "images/3.jpg",
+      "author": "Mohit",
+      "views": 56,
+      "date": 2016,
+      "likes": [
+        259,
+        0
+      ],
+      "comments": [
+        {
+          "id": 5,
+          "comment": "Awesome....",
+          "authId": 2,
+          "author": "Mohit"
+        },
+        {
+          "id": 6,
+          "comment": "Awesome....",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "post_id":41934,
+      "query": "party",
+      "title": "It's Party Time....",
+      "img": "images/4.jpg",
+      "author": "Mohit",
+      "views": 56,
+      "date": 2017,
+      "likes": [
+        145,
+        0
+      ],
+      "comments": [
+        {
+          "id": 7,
+          "comment": "Awesome....",
+          "authId":1,
+          "author": "Abhi"
+        },
+        {
+          "id": 8,
+          "comment": "Awesome....",
+          "authId": 3,
+          "author": "Chirag"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "post_id":52035,
+      "query": "party",
+      "title": "It's Party Time....",
+      "img": "images/5.jpg",
+      "author": "Mohit",
+      "views": 56,
+      "date": 2018,
+      "likes": [
+        159,
+        0
+      ],
+      "comments": [
+        {
+          "id": 9,
+          "comment": "Awesome....",
+          "authId": 1,
+          "author": "Abhi"
+        },
+        {
+          "id": 10,
+          "comment": "Awesome....",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    },
+  
+    {
+      "id": 4,
+      "post_id":62136,
+      "query": "smile",
+      "title": "Smile.. Its free therapy",
+      "img": "images/6.jpg",
+      "author": "Thanos",
+      "views": 1000,
+      "date": 2019,
+      "likes": [
+        500,
+        8
+      ],
+      "comments": [
+        {
+          "id": 11,
+          "comment": "true",
+          "authId": 3,
+          "author": "Chirag"
+        },
+        {
+          "id": 12,
+          "comment": "nice quote",
+          "authId": 2,
+          "author": "Mohit"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "post_id":72237,
+      "query": "shopping",
+      "title": "No decision should be made on an empty shopping bag.",
+      "img": "images/7.jpg",
+      "author": "Thanos",
+      "views": 1000,
+      "date": 2020,
+      "likes": [
+        49,
+        8
+      ],
+      "comments": [
+        {
+          "id": 13,
+          "comment": "true",
+          "authId": 3,
+          "author": "Chirag"
+        },
+        {
+          "id": 14,
+          "comment": "i love shopping",
+          "authId": 2,
+          "author": "Abhi"
+        },
+        {
+          "id": 15,
+          "comment": "shopping season",
+          "authId": 2,
+          "author": "Mohit"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "post_id":82338,
+      "query": "shopping",
+      "title": "No decision should be made on an empty shopping bag.",
+      "img": "images/8.jpg",
+      "author": "Thanos",
+      "views": 1000,
+      "date": 2021,
+      "likes": [
+        60,
+        8
+      ],
+      "comments": [
+        {
+          "id": 16,
+          "comment": "true",
+          "authId": 3,
+          "author": "Chirag"
+        },
+        {
+          "id": 17,
+          "comment": "i love shopping",
+          "authId": 2,
+          "author": "Abhi"
+        }
+       
+      ]
+    },
+    {
+      "id": 3,
+      "post_id":92439,
+      "query": "shopping",
+      "title": "No decision should be made on an empty shopping bag.",
+      "img": "images/9.jpg",
+      "author": "Chirag",
+      "views": 1000,
+      "date": 2022,
+      "likes": [
+      80,
+        8
+      ],
+      "comments": [
+        {
+          "id": 18,
+          "comment": "true",
+          "authId": 4,
+          "author": "Thanos"
+        },
+        {
+          "id": 19,
+          "comment": "i love shopping",
+          "authId": 2,
+          "author": "Abhi"
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "post_id":102540,
+      "query": "party",
+      "title": "dsf.fnasljdfhkasdjkfnasj",
+      "img": "images/10.jpg",
+      "author": "Chirag",
+      "views": 56,
+      "date": 2013,
+      "likes": [
+        73,
+        0
+      ],
+      "comments": [
+        {
+          "id": 20,
+          "comment": "shopping season",
+          "authId": 2,
+          "author": "Mohit"
+        },
+        {
+          "id": 21,
+          "comment": "Awesome....",
+          "authId": 1,
+          "author": "Abhi"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "post_id":112641,
+      "query": "party",
+      "title": "dsf.fnasljdfhkasdjkfnasj",
+      "img": "images/11.jpg",
+      "author": "Chirag",
+      "views": 56,
+      "date": 201,
+      "likes": [
+        180,
+        0
+      ],
+      "comments": [
+        {
+          "id": 21,
+          "comment": "Awesome....",
+          "authId": 2,
+          "author": "Mohit"
+        },
+        {
+          "id": 22,
+          "comment": "shopping season",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "post_id":132843,
+      "query": "party",
+      "title": "dsf.fnasljdfhkasdjkfnasj",
+      "img": "images/13.jpg",
+      "author": "surya",
+      "views": 56,
+      "date": 201,
+      "likes": [
+        8,
+        0
+      ],
+      "comments": [
+        {
+          "id": 21,
+          "comment": "Awesome....",
+          "authId": 2,
+          "author": "Mohit"
+        },
+        {
+          "id": 22,
+          "comment": "shopping season",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "post_id":142944,
+      "query": "party",
+      "title": "dsf.fnasljdfhkasdjkfnasj",
+      "img": "images/14.jpg",
+      "author": "surya",
+      "views": 56,
+      "date": 201,
+      "likes": [
+        55,
+        0
+      ],
+      "comments": [
+        {
+          "id": 21,
+          "comment": "Awesome....",
+          "authId": 1,
+          "author": "Abhi"
+        },
+        {
+          "id": 22,
+          "comment": "shopping season",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "post_id":153045,
+      "query": "party",
+      "title": "dsf.fnasljdfhkasdjkfnasj",
+      "img": "images/15.jpg",
+      "author": "surya",
+      "views": 56,
+      "date": 201,
+      "likes": [
+        155,
+        0
+      ],
+      "comments": [
+        {
+          "id": 21,
+          "comment": "Awesome....",
+          "authId": 1,
+          "author": "Abhi"
+        },
+        {
+          "id": 22,
+          "comment": "shopping season",
+          "authId": 4,
+          "author": "Thanos"
+        }
+      ]
+    }
+  ]
+}
